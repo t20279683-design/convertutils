@@ -3,7 +3,7 @@
 документация:
 как установить на python:
 'bash':
-pip install git+https://github.com/t20279683-design/convertutils/tree/main/convertutils
+pip install git+https://github.com/t20279683-design/convertutils/blob/main/convert.py
 как импортировать:
 from convertutils import convert
 методы библиотеки:
